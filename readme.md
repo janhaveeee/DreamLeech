@@ -122,12 +122,3 @@ Wait:             -0.3
 - **Algorithm Cards** — Formulas, pros/cons, hyperparameters
 
 ---
-
-## Extending the Project
-
-Ideas for further work:
-- **PPO / A2C** — Policy gradient methods for comparison
-- **Curriculum learning** — Start easy (no Leech), gradually harder
-- **Multi-agent** — Two agents cooperating to escape
-- **Larger map** — More rooms, locked doors, keys
-- **Persistent saving** — Save/load trained agents with `pickle`
